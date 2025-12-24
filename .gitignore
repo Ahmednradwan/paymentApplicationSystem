@@ -1,0 +1,10 @@
+# Compiled executables
+*.exe
+*.o
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+payment_app
